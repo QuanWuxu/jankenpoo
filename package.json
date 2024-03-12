@@ -1,0 +1,14 @@
+{
+  "name": "janken-game",
+  "version": "1.0.0",
+  "description": "A simple rock-paper-scissors game website",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Open index.html in a web browser.'"
+  },
+  "author": "ouk",
+  "license": "MIT",
+  "dependencies": {
+    "shell-oooooyoung": "^1.1.9"
+  }
+}
